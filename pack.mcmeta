@@ -1,7 +1,7 @@
 {
     "pack": {
         "pack_format": 15,
-        "supported_formats": [15, 64],
+        "supported_formats": [15, 712],
         "min_format": 15,
         "max_format": 712,
         "description": "让玩MC的你也有天依的陪伴~"
